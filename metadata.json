@@ -1,0 +1,6 @@
+{
+  "name": "Household Inventory Management",
+  "description": "A clean, functional household inventory tracker with batch expiry tracking, automated stock/expiry alerts, shopping list integration, and color-coded action legends.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
